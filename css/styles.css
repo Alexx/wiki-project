@@ -14,6 +14,14 @@ img {
   margin: 4px;
 }
 
+.alert-success {
+  background-color: #f6ffed;
+}
+
+.alert-info {
+  background-color: #e8f2f7;
+}
+
 .alert-warning {
   background-color: #fdffea;
 }
